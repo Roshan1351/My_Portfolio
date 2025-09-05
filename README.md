@@ -9,7 +9,7 @@ This repository contains my **personal portfolio website**, created to showcase 
 - 📱 **Responsive Design** – Optimized for mobile, tablet, and desktop  
 - 🎨 **Modern UI/UX** – Clean and user-friendly interface  
 - 🧑‍💻 **About Me Section** – Brief introduction and background  
-- 🛠 **Projects Showcase** – Highlights of my work and skills  
+- 🤹‍♀️ **Skill Section** — Showcase my Skills with two categories i.e. Tech skill and Soft skill  
 - 🎓 **Certificates & Achievements** – Display of accomplishments  
 - 📞 **Contact Section** – Easy ways to reach me  
 
